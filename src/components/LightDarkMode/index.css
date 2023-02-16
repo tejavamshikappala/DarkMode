@@ -1,0 +1,52 @@
+.for_div {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.forInner {
+  background-color: #000000;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: 'Roboto';
+  text-align: center;
+  margin: 20px;
+}
+.forBlack {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: 'Roboto';
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  text-align: center;
+  margin: 20px;
+}
+.forButton {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+
+  text-align: center;
+  margin: 15px;
+  font-size: 20px;
+}
+.forButton_color {
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+
+  margin: 15px;
+  font-size: 20px;
+}
+.forheader {
+  color: #ffffff;
+  font-size: 44px;
+  font-weight: 700;
+}
+.forheader_1 {
+  color: #000000;
+  font-size: 44px;
+  font-weight: 700;
+}
